@@ -5,5 +5,5 @@
   - Portfolio generator (Python + HTML)
   - Invoice creator (PDF & HTML)
   - Task managers, games, and more
-- 📈 Learning data analysis, automation, and web development
+- 📈 Learning data analysis, automation, web development, and robot making
 - 📫 Contact me: [kevinehab8801@gmail.com]
