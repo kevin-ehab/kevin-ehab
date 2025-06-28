@@ -20,7 +20,7 @@
 ---
 ## 🚀 About Me
 
-- 🧠 I'm a self-taught coder exploring the world of:
+- 🧠 I'm a self-taught junior dev exploring the world of:
   - ✅ Python scripting & automation
   - ✅ Data analysis with Jupyter notebooks
   - ✅ Web development (HTML, JS, CSS)
