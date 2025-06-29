@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Kevin Ehab</h1>
 
 <p align="center">
-  🧠 16 y/o developer | 💻 Python & JavaScript enthusiast | 📍 Based in Egypt  
+  🧠 16 y/o developer | 💻 Python & JavaScript enthusiast | 📍 Based in Egypt 🇪🇬
 </p>
 
 ---
@@ -13,8 +13,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tkinter-FF69B4?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Pandas-00FF00?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ---
