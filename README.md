@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Kevin Ehab</h1>
 
 <p align="center">
-  🧠 16 y/o developer | 💻 Python & JavaScript enthusiast | 📍 Based in Egypt 🇪🇬
+  🧠 16 y/o developer | 💻 Python & JavaScript enthusiast | 📌🇪🇬 Based in Egypt 
 </p>
 
 ---
