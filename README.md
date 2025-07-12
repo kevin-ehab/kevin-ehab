@@ -44,7 +44,7 @@
 - ⛅ [Weather App](https://github.com/kevin-ehab/weather-app)  
   → Live weather based on IP, built with Python & Webview ☁️
 
-- 🧠 [Flag Quiz Game](https://github.com/kevin-ehab/flag-quiz-game)  
+- 🧠 [Flag Quiz Game](https://github.com/kevin-ehab/Web-flag-quiz-game)  
   → Educational game with GUI and score tracking 🌍
 
 ---
