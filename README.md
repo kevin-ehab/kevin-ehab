@@ -30,13 +30,14 @@
   - 🧾 Invoice generator (PDF & HTML export)
   - 🎮 Games & quizzes using Python GUI
   - 📂 Portfolio generator with user input
-  - 📝Task manager apps (JS & Python)
-
 ---
 
 
 
 ## 📌 Featured Projects
+
+- 💲 [Expense Tracker](https://github.com/kevin-ehab/Web-Expense-Tracker)
+  → Track your expenses to know where your money goes💸
 
 - 📘 [Book Summary Generator](https://github.com/kevin-ehab/book-summary-generator)  
   → Fetch summaries, preview in HTML, and download 📄
@@ -45,7 +46,7 @@
   → Live weather based on IP, built with Python & Webview ☁️
 
 - 🧠 [Flag Quiz Game](https://github.com/kevin-ehab/Web-flag-quiz-game)  
-  → Educational game with GUI and score tracking 🌍
+  → Educational game with UI and score tracking 🌍
 
 ---
 
