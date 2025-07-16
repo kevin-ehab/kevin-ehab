@@ -9,11 +9,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-033?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-008000?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-008000?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ---
@@ -36,7 +37,7 @@
 
 ## 📌 Featured Projects
 
-- 💲 [Expense Tracker](https://github.com/kevin-ehab/Web-Expense-Tracker)
+- 💲 [Expense Tracker](https://github.com/kevin-ehab/Web-Expense-Tracker)<br>
   → Track your expenses to know where your money goes💸
 
 - 📘 [Book Summary Generator](https://github.com/kevin-ehab/book-summary-generator)  
