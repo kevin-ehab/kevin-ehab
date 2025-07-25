@@ -27,6 +27,7 @@
   - ✅ Building fun & practical apps
 
 - 🔧 I’ve built over **20+ projects**, including:
+  - 🖥️ Interactive websites
   - 📊 Data cleaning & analysis projects
   - 🧾 Invoice generator (PDF & HTML export)
   - 🎮 Games & quizzes using Python GUI
