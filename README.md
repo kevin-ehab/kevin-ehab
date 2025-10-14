@@ -24,6 +24,7 @@
   - ✅ Python scripting & automation
   - ✅ Data analysis with Jupyter notebooks
   - ✅ Web development (HTML, JS, CSS, Flask)
+  - Hardware projects using ESP32s✅
   - ✅ Building fun & practical apps
 
 - 🔧 I’ve built over **30+ projects**, including:
