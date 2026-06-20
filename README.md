@@ -8,7 +8,8 @@
 ## 🛠️ Tools & Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3706AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-3776AB?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-033?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-008000?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
@@ -26,6 +27,7 @@
   - ✅ Web development (HTML, JS, CSS, Flask)
   - ✅ Hardware projects using ESP32s
   - ✅ Building fun & practical apps
+  - ✅ Building hardware projects and controllers
 
 - 🔧 I’ve built over **30+ projects**, including:
   - 🖥️ Interactive websites
