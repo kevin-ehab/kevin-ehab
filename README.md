@@ -57,7 +57,7 @@ I've built **30+ projects**, ranging from small experiments to larger applicatio
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-115761?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-00979D?style=for-the-badge&logo=seaborn&logoColor=white" />
   
 </p>
 
@@ -65,7 +65,7 @@ I've built **30+ projects**, ranging from small experiments to larger applicatio
 
 <p align="center">
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-115761?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" />
   <img src="https://img.shields.io/badge/I2C-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
@@ -87,7 +87,7 @@ I've built **30+ projects**, ranging from small experiments to larger applicatio
 
 > (a.k.a. Kevin's custom controller) is a 🎮controller that combines 🖱mouse and ⌨keyboard functions in one. Can be used for 🕹gaming or 🖥️general desktop use.
 
-**Tech:** `ESP32` `Arduino IDE` `Python` `BLE`
+**Tech:** `ESP32` `Arduino IDE` `C++` `Python` `BLE`
 
 ---
 
