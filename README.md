@@ -91,9 +91,9 @@ I've built **30+ projects**, ranging from small experiments to larger applicatio
 
 ---
 
-### 🔹 [Notes-to-Quizzes](https://github.com/kevin-ehab/Notes-to-Quizzes)
+### 🔹 [Web-Expense-Tracker](https://github.com/kevin-ehab/Web-Expense-Tracker)
 
-> ✏️ A flask-based website that turns your 📑notes into fill-in-the-blank 🧠quizzes. Choose how many ❓questions you want, get instant ✅feedback, and 🎓study smarter with interactive learning.🔥
+> A full-stack 🧪Flask-powered 💲Expense Tracker to help you manage spending, track categories, and reach your 📈saving goals! 🔐 Features encryption, user accounts, charts, and a smooth UI🖥️.
 
 **Tech:** `Python` `Flask` `Javascript` `HTML` `CSS`
 
