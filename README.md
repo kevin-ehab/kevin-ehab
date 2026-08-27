@@ -1,65 +1,123 @@
-<h1 align="center">👋 Hey, I'm Kevin Ehab</h1>
+# 👋 Hey, I'm Kevin Ehab
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Student+Developer+from+Egypt+%F0%9F%87%AA%F0%9F%87%AC;Python+%7C+JavaScript+%7C+Machine+Learning;Robotics+%7C+Embedded+Systems+%7C+AI;Always+learning.+Always+building.+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  🧠 17 y/o developer | 💻 Python & JavaScript enthusiast | 📌🇪🇬 Based in Egypt 
+  🧠 Self-taught developer &nbsp;•&nbsp;
+  🤖 Robotics enthusiast &nbsp;•&nbsp;
+  💻 Data analysis and AI &nbsp;
+</p>
+
+<p align="center">
+  <a href="https://github.com/kevin-ehab">
+  </a>
 </p>
 
 ---
-## 🛠️ Tools & Languages
+
+## 🧠 About Me
+
+I'm a self-taught developer interested in **engineering, robotics, machine learning, and software development**.
+
+I enjoy taking an idea, figuring out how it works, and turning it into something I can actually build and test.
+
+### 🔭 Currently exploring
+
+* 🤖 Robotics & embedded systems
+* 🧠 Machine Learning & AI
+* 🐍 Python development
+* 🌐 Web development
+* ⚡ ESP32 & microcontrollers
+* 📊 Data analysis
+* 🎮 Interactive applications
+* 🔧 Hardware-software integration
+
+I've built **30+ projects**, ranging from small experiments to larger applications involving software, electronics, and machine learning.
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 💻 Programming & Web
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3706AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-3776AB?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-033?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-008000?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+### 🧠 Data & Machine Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-115761?style=for-the-badge&logo=seaborn&logoColor=white" />
+  
+</p>
+
+### 🤖 Hardware & Embedded
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" />
+  <img src="https://img.shields.io/badge/I2C-555555?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white" />
 </p>
 
 ---
-## 🚀 About Me
 
-- 🧠 I'm a self-taught junior dev exploring the world of:
-  - ✅ Python scripting & automation
-  - ✅ Data analysis with Jupyter notebooks
-  - ✅ Web development (HTML, JS, CSS, Flask)
-  - ✅ Hardware projects using ESP32s
-  - ✅ Building fun & practical apps
-  - ✅ Building hardware projects and controllers
+## 🚀 Featured Projects
 
-- 🔧 I’ve built over **30+ projects**, including:
-  - 🖥️ Interactive websites
-  - 📊 Data cleaning & analysis projects
-  - 🧾 Invoice generator (PDF & HTML export)
-  - 🎮 Games & quizzes using Python GUI
-  - 📂 Portfolio generator with user input
----
+### 🔹 [Medical-Urgency-ML-Model](https://github.com/kevin-ehab/Medical-Urgency-ML-Model)
 
+> A machine learning project that predicts whether an emergency-department patient should be classified as an emergency based on demographic information, vital signs, pain-related information, mental status, injury status, and chief complaint.
 
-
-## 📌 Featured Projects
-
-- 💲 [Expense Tracker](https://github.com/kevin-ehab/Web-Expense-Tracker)<br>
-  → Track your expenses to know where your money goes💸
-
-- 📘 [Book Summary Generator](https://github.com/kevin-ehab/book-summary-generator)  
-  → Fetch summaries, preview in HTML, and download 📄
-
-- ⛅ [Weather App](https://github.com/kevin-ehab/weather-app)  
-  → Live weather based on IP, built with Python & Webview ☁️
-
-- 🧠 [Flag Quiz Game](https://github.com/kevin-ehab/Web-flag-quiz-game)  
-  → Educational game with UI and score tracking 🌍
+**Tech:** `Python` `Machine-Learning` `Scikit-Learn` `Jupyter Notebook`
 
 ---
 
-## 📫 Contact Me
+### 🔹 [KCC](https://github.com/kevin-ehab/KCC)
 
-- 📧 Email: [kevinehab8801@gmail.com](mailto:kevinehab8801@gmail.com)
+> (a.k.a. Kevin's custom controller) is a 🎮controller that combines 🖱mouse and ⌨keyboard functions in one. Can be used for 🕹gaming or 🖥️general desktop use.
 
-- ◀️ YouTube:
-[Kevin Ehab](https://youtube.com/@kevinehab4887?si=6EXwJohqfYy0ljRb)
-  
+**Tech:** `ESP32` `Arduino IDE` `Python` `BLE`
+
 ---
+
+### 🔹 [Notes-to-Quizzes](https://github.com/kevin-ehab/Notes-to-Quizzes)
+
+> ✏️ A flask-based website that turns your 📑notes into fill-in-the-blank 🧠quizzes. Choose how many ❓questions you want, get instant ✅feedback, and 🎓study smarter with interactive learning.🔥
+
+**Tech:** `Python` `Flask` `Javascript` `HTML` `CSS`
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Machine Learning       ███████████████░░░░░
+Robotics               █████████████░░░░░░░
+Embedded Systems       ████████████░░░░░░░░
+Back-End Development   ██████████░░░░░░░░░░
+```
+
+---
+
+## 💡 My Goal
+
+> Build things that combine **software, intelligence, and hardware** to solve real-world problems.
+
+I'm currently exploring different areas of engineering and looking for opportunities to learn, build, and contribute to interesting projects.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+</p>
